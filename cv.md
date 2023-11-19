@@ -11,7 +11,6 @@
 
 ## Skills
 - **Programming Languages:** Javascript, React, HTML, CSS
-- **Frameworks:** 
 - **Version Control:** Git
 - **Tools:** VS Code
 
@@ -36,7 +35,7 @@
 
 - **Project 2: Github User Finder**
   - Description: React app with authorization and authentication. After you log in, you can find any GitHub user, see their repositories, personal info, etc.
-  - Link: [Project 2](https://gifted-shockley-10e9e2.netlify.app)
+  - Link: [Quizz App](https://gifted-shockley-10e9e2.netlify.app)
 
 ## Education
 
